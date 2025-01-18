@@ -10,3 +10,6 @@ capitalized_family = family.upper()
 
 # Print the capitalized name and family
 print(capitalized_name + " " + capitalized_family)
+
+# add second print
+print(name, family)
